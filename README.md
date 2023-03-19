@@ -1,2 +1,2 @@
-# qualysvmdr
-Vulnerability assessment using Qualys Cloud  - documented
+# Qualys VMDR
+Vulnerability Assessment using Qualys Cloud
