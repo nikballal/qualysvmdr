@@ -2,7 +2,7 @@
 Vulnerability Assessment using Qualys Cloud
 
 
-- Current status of the asset is as shown below with a TruRisk Score of 82 (Low) with a criticality score of 3. 5 is the highest score an asset can have.
+- Current status of the asset is as shown below with a TruRisk Score of 82 (Low) with a criticality score of 3 with 5 being the the highest score an asset can be alloted as very critical.
 
 ![asset criticality edited](https://user-images.githubusercontent.com/89782464/226181011-30f33217-128e-4349-8894-f6bbc637c7dc.jpg)
 
